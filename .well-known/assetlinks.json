@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tonetag.noname",
+    "sha256_cert_fingerprints": ["69:CF:CD:FB:3D:3E:B7:C9:30:99:7F:8A:A2:5E:55:62:B6:F8:4A:9B:BA:1B:D0:13:C1:38:AD:FB:BE:AF:13:65"]
+  }
+}]
